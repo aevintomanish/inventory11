@@ -1,0 +1,4 @@
+MaterialID,MaterialDescription,Plant,WarehouseID,SubDivisionID,Vendor,Quantity,BaseUnitofQuanity,Username,DateofEntry,Feedback
+M001,Product A,Plant1,W001,SubDiv1,Vendor1,100,EA,User1,2023-01-01T12:00:00,Good
+M002,Product B,Plant2,W002,SubDiv2,Vendor2,150,Kg,User2,2023-01-02T14:30:00,Excellent
+M003,Product C,Plant3,W003,SubDiv3,Vendor3,200,Ltr,User3,2023-01-03T09:45:00,Satisfactory
